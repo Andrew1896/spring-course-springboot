@@ -1,6 +1,6 @@
 package com.zaurtregulov.spring.springboot.spring_course_springboot.entity;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
     @Entity
     @Table(name = "employees")
